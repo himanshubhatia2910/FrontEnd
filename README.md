@@ -6,5 +6,3 @@ Welcome to the Frontend Mini Projects repository! This repository is a collectio
 ## Design Live URL:
 
 - QR Code Component: https://himanshu29-qrcodecomponent.netlify.app/
-=======
->>>>>>> 12f360bf61f3cc984713253a69b249a98250df15
